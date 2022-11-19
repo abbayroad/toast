@@ -98,4 +98,6 @@ function Toast(x) {
     } 
 }
 
-modul.exports = Toast;
+module.exports = {
+    Toast,
+};
