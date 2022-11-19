@@ -1,7 +1,7 @@
 function Toast(x) {
 
     if(x.closeBtn) {
-        console.log("Close button true");
+        // console.log("Close button true");
     }else{
         setTimeout(() => {
             let merror = document.querySelector("#error")

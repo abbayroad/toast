@@ -1,6 +1,6 @@
 {
   "name": "abiesoft-toast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Toast notification template",
   "main": "index.js",
   "scripts": {
