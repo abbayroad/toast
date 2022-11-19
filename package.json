@@ -1,0 +1,22 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "Toast notification template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbayroad/toast.git"
+  },
+  "keywords": [
+    "toast"
+  ],
+  "author": "Sukron Abbayroad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbayroad/toast/issues"
+  },
+  "homepage": "https://github.com/abbayroad/toast#readme"
+}
