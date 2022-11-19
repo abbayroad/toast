@@ -6,4 +6,4 @@ class ToastMessage extends Component {
     }
 }
  
-export default ToastMessage;
+module.exports = ToastMessage;
